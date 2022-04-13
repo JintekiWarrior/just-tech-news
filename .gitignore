@@ -1,3 +1,4 @@
 node_modules/
 .DS_Stroe
 package-lock.json
+.env
